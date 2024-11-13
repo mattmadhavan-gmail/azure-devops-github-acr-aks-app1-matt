@@ -18,7 +18,8 @@ variables:
   matt: madhavan
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  # vmImageName: 'ubuntu-latest'
+  vmImageName: 'matt-mac'
 
 stages:
 - stage: Build
